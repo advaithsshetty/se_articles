@@ -40,12 +40,12 @@ Ensure that you have the following installed:
 ### Steps
 1. Clone the repository to your local machine:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/advaithsshetty/se_articles
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd mini-search-engine
+    cd se_articles
     ```
 
 3. Install the dependencies:
