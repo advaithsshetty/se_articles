@@ -88,10 +88,13 @@ GET /articles/1234-abcd-5678-efgh
 
 ### `DELETE /articles/:id`
 Delete an article by its ID.
+```bash
+DELETE /articles/1234-abcd-5678-efgh
+```
 
 ## File Structure
 ```
-/mini-search-engine
+/se_articles
   ├── /data
   │   └── articles.json  # Stores articles and index data
   ├── /node_modules      # Installed dependencies
